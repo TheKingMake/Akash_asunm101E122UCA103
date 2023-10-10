@@ -1,4 +1,4 @@
-def CheckLeap(Year):  
+seedef CheckLeap(Year):  
   if((Year % 400 == 0) or  
      (Year % 100 != 0) and  
      (Year % 4 == 0)):   
